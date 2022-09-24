@@ -530,6 +530,12 @@ body {
 }
 
 /* Footer-join */
+
+.footer__container{
+  display: flex;
+}
+
+
 .footer-first-flex {
   display: flex;
   flex-direction: column;
