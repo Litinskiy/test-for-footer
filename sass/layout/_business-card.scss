@@ -1,0 +1,26 @@
+.business-card {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 270px;
+    height: 168px;
+    text-align: center;
+    background-color: var(--primary-white-color);
+}
+
+.business-card__name {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    color: var(--primery-title-color);
+}
+
+
+.business-card .text {
+    display: inline-block;
+    min-width: 76px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.19;
+}

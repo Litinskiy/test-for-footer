@@ -1,0 +1,14 @@
+.logo {
+    display: inline-block;
+    text-decoration: none;
+    margin-right: 93px;
+
+    font-family: 'Raleway', variable;
+    font-size: 26px;
+    line-height: 1.19;
+    color: var(--header-logo-color);
+}
+
+.logo__accent {
+    color: var(--accent-color);
+}

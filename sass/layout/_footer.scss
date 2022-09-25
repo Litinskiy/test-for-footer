@@ -1,0 +1,24 @@
+.footer {
+    min-width: 1600px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background: var(--footer-hero-background-color);
+    margin: 0 auto;
+}
+
+.footer-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.footer-wrapper__footer-link {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-wrapper__footer-link-list .item:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+.features .text {
+    line-height: 1.71;
+}

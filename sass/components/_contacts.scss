@@ -1,0 +1,8 @@
+.contacts-nav {
+    display: flex;
+    margin-left: auto;
+}
+
+.contacts-nav .item:not(:last-child) {
+    padding-right: 50px;
+}
