@@ -5,3 +5,8 @@
 .team__title {
     width: 264px;
 }
+
+.team__cards-list {
+    display: flex;
+    justify-content: space-between;
+}

@@ -35,3 +35,11 @@
 .contacts-nav__link:focus {
     color: var(--accent-color);
 }
+
+.footer-wrapper__footer-link {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-wrapper__footer-link-list .item:not(:last-child) {
+    margin-bottom: 9px;
+}

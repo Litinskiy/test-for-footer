@@ -1,0 +1,29 @@
+.container {
+    max-width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #ececec;
+}
+
+.hero__container {
+    padding-top: 200px;
+    padding-bottom: 280px;
+    text-align: center;
+}
+
+.features__container,
+.portfolio-button-container {
+    padding-bottom: 0;
+}
+
+.project-container {
+    padding-top: 50px;
+    padding-bottom: 94px;
+}
